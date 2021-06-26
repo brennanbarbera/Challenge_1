@@ -1,7 +1,7 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-
+In this project, we were tasked with finding the success rates of theatre kickstarters based on their launch month and goal. The purpose of this analysis is to provide accurate information so our client can visualize where thier Kickstarter may stand.
 ### Purpose
 
 ## Analysis and Challenges
